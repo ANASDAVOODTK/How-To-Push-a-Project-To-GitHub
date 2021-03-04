@@ -6,11 +6,11 @@ The existing commands can be simply run via the CLI terminal of VS-CODE. It is u
 
         git init
         
-### 2) => Once that is successful, click on the 'Source Control' icon on the left navbar in VS-Code.One should be able to see files ready to be commit-ed. Press on 'Commit'                 button,  provide comments, stage the changes and commit the files. Alternatively you can run from CLI
+### 2) Once that is successful, click on the 'Source Control' icon on the left navbar in VS-Code.One should be able to see files ready to be commit-ed. Press on 'Commit'                 button,  provide comments, stage the changes and commit the files. Alternatively you can run from CLI
 
          git commit -m "Your comment"
  
-### 3) Now you need to visit your GitHub account and create a new Repository. Exclude creating 'README.md', '.gitIgnore' files. Also do not add any License to the repo. Sometimes         these settings cause issue while pushing in.
+### 3) Now you need to visit your GitHub account and create a new Repository. Exclude creating 'README.md', '.gitIgnore' files. Also do not add any License to the repo. Sometimes        these settings cause issue while pushing in.
 
 ### 4) Copy the link to this newly created GitHub Repository.
 
