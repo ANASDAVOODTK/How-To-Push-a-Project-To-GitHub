@@ -4,7 +4,7 @@ The existing commands can be simply run via the CLI terminal of VS-CODE. It is u
 
 1) => Navigate to the local project directory and create a local git repository:
 
- ## git init
+ ### git init
 2) => Once that is successful, click on the 'Source Control' icon on the left navbar in VS-Code.One should be able to see files ready to be commit-ed. Press on 'Commit' button,         provide comments, stage the changes and commit the files. Alternatively you can run from CLI
 
  ## git commit -m "Your comment"
