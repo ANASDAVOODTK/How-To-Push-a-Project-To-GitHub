@@ -6,6 +6,10 @@ The existing commands can be simply run via the CLI terminal of VS-CODE. It is u
 
         git init
         
+        git add .   //for adding all your code for commit. if already done just ignore it
+        
+        
+        
 ### 2) Once that is successful, click on the 'Source Control' icon on the left navbar in VS-Code.One should be able to see files ready to be commit-ed. Press on 'Commit'                 button,  provide comments, stage the changes and commit the files. Alternatively you can run from CLI
 
          git commit -m "Your comment"
