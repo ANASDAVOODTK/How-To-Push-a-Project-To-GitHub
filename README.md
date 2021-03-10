@@ -1,6 +1,6 @@
 # How-To-Push-a-Project-To-GitHub
 
-The existing commands can be simply run via the CLI terminal of VS-CODE. It is understood that Git is installed in the system, configured with desired username and email Id.
+The existing commands can be simply run via the CLI terminal of VS-CODE. It is understood that Git is installed in the system, configured with desired username and email Id. <link>https://code.visualstudio.com/docs/editor/github</link>
 
 ### 1) Navigate to the local project directory and create a local git repository:
 
