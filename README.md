@@ -7,7 +7,7 @@ The existing commands can be simply run via the CLI terminal of VS-CODE. It is u
         git init
         
         git add .   //for adding all your code for commit. if already done just ignore it
-        git init
+      
         git add README.md (if you want)
 
 
